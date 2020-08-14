@@ -1,1 +1,1 @@
-# Image
+Build an image caption generation model that generates the caption for entirely new photographs. Pre-processed the photos with the VGG model and use the Long Short-Term Memory (LSTM) for text handling. Evalute the strength of model using BLEU score
